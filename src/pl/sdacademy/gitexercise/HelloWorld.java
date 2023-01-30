@@ -5,5 +5,6 @@ public class HelloWorld {
 
         System.out.println("hello world, Lukasz Witkowski");
 
+        System.out.println("tutaj Lukasz Witkowski");
     }
 }
