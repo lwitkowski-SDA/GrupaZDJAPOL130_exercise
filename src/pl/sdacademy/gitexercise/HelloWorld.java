@@ -4,6 +4,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 
         System.out.println("hello world, Lukasz Witkowski");
+        System.out.println("tutaj Krzysztof KLocek ")
 
         System.out.println("tutaj Konrad Pstrongowski");
         System.out.println("tutaj Joanna Lesiak");
@@ -13,3 +14,4 @@ public class HelloWorld {
         System.out.println("tutaj Konrad Kołodziejczyk");
     }
 }
+
