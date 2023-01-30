@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("hello world, Lukasz Witkowski");
 
         System.out.println("tutaj Dariusz Szyperek");
+        System.out.println("tutaj Konrad Kołodziejczyk");
     }
 }
